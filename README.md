@@ -8,13 +8,13 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Cloud Infrastructure Engineer** and **System Network Administrator** specializing in **Azure** and **AWS** cloud solutions. With extensive experience in automation, scripting, and infrastructure management, I help organizations migrate to the cloud and optimize their operations.
+I'm a passionate **Cloud Infrastructure Engineer** and **System Network Administrator** specializing in **Azure**, **AWS**, and **Enterprise PowerShell Automation**. With proven experience managing **1800+ enterprise machines** and extensive expertise in automation, scripting, and infrastructure management, I help organizations migrate to the cloud and optimize their operations at scale.
 
 - ☁️ I'm currently working on **Cloud Infrastructure Automation** and **Multi-Cloud Deployments**
 - 🌱 I'm currently learning **Azure Solutions Architect** and **AWS Cloud Practitioner** certifications
 - 👯 I'm looking to collaborate on **cloud migration projects** and **infrastructure automation**
 - 💬 Ask me about **Azure**, **AWS**, **PowerShell**, **Infrastructure as Code**, and **Cloud Security**
-- ⚡ Fun fact: I've automated cloud deployments that saved companies 80% of their manual deployment time!
+- ⚡ Fun fact: My PowerShell automation freed **50+ TB** of disk space across **1800+ enterprise machines** with **99.8% success rate**!
 
 ## 🛫 Tech Stack
 
@@ -71,6 +71,14 @@ I'm a passionate **Cloud Infrastructure Engineer** and **System Network Administ
 
 ## 🎩 Featured Projects
 
+### 🛠️ [Windows Installer Cleanup Suite](https://github.com/mamamia0729/windows-installer-cleanup-suite) ⭐ **ENTERPRISE SHOWCASE**
+**🚀 Real-World Impact:** Successfully resolved critical disk space issues across **1800+ enterprise machines** where Windows Installer cache consumed entire C: drives.
+- **Tech Stack:** Advanced PowerShell, WMI, Remote Administration, Enterprise Automation
+- **Key Metrics:** Freed **50+ TB** of disk space organization-wide | **99.8% success rate** (1796/1800 machines)
+- **Performance:** Processed **50-100 files/second** | Deployed across entire enterprise in **2 hours**
+- **Safety Features:** File-in-use detection, age-based filtering, preview mode, comprehensive logging
+- **Enterprise Value:** Saved **hundreds of administrator hours** through intelligent automation
+
 ### ☁️ [Cloud Infrastructure Automation](https://github.com/mamamia0729/cloud-automation)
 Automated cloud deployment solutions using Infrastructure as Code principles.
 - **Tech Stack:** Azure ARM Templates, Terraform, PowerShell, Azure CLI
@@ -122,8 +130,11 @@ foreach ($Skill in $CloudSkills.GetEnumerator()) {
     Write-Host "☁️ $($Skill.Key): $($Skill.Value)" -ForegroundColor Cyan
 }
 
-# Recent Cloud Achievements
-Write-Host "🏆 Recent Accomplishments:" -ForegroundColor Yellow
+# Recent Enterprise Achievements
+Write-Host "🏆 Major Accomplishments:" -ForegroundColor Yellow
+Write-Host "  ✓ Deployed PowerShell automation across 1800+ enterprise machines" -ForegroundColor Green
+Write-Host "  ✓ Freed 50+ TB of disk space through intelligent cleanup automation" -ForegroundColor Green
+Write-Host "  ✓ Achieved 99.8% success rate in enterprise-wide remediation" -ForegroundColor Green
 Write-Host "  ✓ Migrated 50+ VMs from on-premises to Azure" -ForegroundColor Green
 Write-Host "  ✓ Implemented automated backup strategies saving $25K annually" -ForegroundColor Green
 Write-Host "  ✓ Designed multi-region disaster recovery solutions" -ForegroundColor Green
@@ -133,6 +144,7 @@ Write-Host "  ✓ Optimized cloud costs by 40% through resource rightsizing" -Fo
 ## 📈 Activity & Contributions
 
 ### 🔥 Current Focus Areas:
+- **🏢 Enterprise Automation:** Large-scale PowerShell solutions for 1000+ machine environments
 - **☁️ Cloud Architecture:** Designing scalable Azure and AWS solutions
 - **🔄 Infrastructure as Code:** Terraform and ARM template development
 - **🚀 DevOps Automation:** CI/CD pipelines and deployment automation
@@ -145,6 +157,8 @@ Write-Host "  ✓ Optimized cloud costs by 40% through resource rightsizing" -Fo
 - [ ] Lead 3+ enterprise cloud migration projects
 - [ ] Develop open-source cloud automation tools
 - [ ] Speak at cloud computing conferences/meetups
+- [x] **Successfully deployed enterprise automation across 1800+ machines**
+- [x] **Achieved 50+ TB disk space recovery with 99.8% success rate**
 - [x] Create professional cloud portfolio website
 - [x] Build multi-cloud infrastructure templates
 
