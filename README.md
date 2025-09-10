@@ -2,25 +2,26 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=550&lines=Desktop+Support+Professional;Former+System+%26+Network+Admin;PowerShell+Automation+Enthusiast;Aspiring+Cloud+Infrastructure+Engineer;Azure+%26+AWS+Learner;Always+Growing+%26+Building!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Certified+Cloud+%26+Network+Professional;AWS+Certified+%7C+Azure+AZ-104+%7C+Cisco+CCNA;Desktop+Support+%26+System+Administrator;PowerShell+Automation+Expert;Aspiring+Cloud+Infrastructure+Engineer;Always+Growing+%26+Building!)](https://git.io/typing-svg)
 
 </div>
 
 ## 🚀 About Me
 
-I'm a dedicated **IT Professional** currently working in **Desktop Support** with a strong background in **System Administration**, **Network Administration**, and **Endpoint Management**. Having managed enterprise environments in the past, I'm now focused on building cloud expertise and automation skills while delivering excellent end-user support.
+I'm a **Certified Cloud and Network Professional** currently working in **Desktop Support** with extensive experience in **System Administration**, **Network Administration**, and **Endpoint Management**. With **AWS Cloud Practitioner**, **Azure Administrator Associate (AZ-104)**, and **CCNA** certifications, I bring proven cloud and networking expertise while delivering excellent end-user support and pursuing advanced infrastructure roles.
 
 **Background & Expertise:**
+- 🏆 **Certifications:** AWS Cloud Practitioner | Azure Administrator Associate (AZ-104) | Cisco CCNA
 - 🗺️ **Previous Experience:** System Admin, Network Admin, and Endpoint Admin managing enterprise infrastructures
 - 🛫 **Current Role:** Tier 1 Desktop Support - providing technical support and troubleshooting solutions
-- ☁️ **Growing Focus:** Cloud Infrastructure (Azure & AWS) and PowerShell automation
+- ☁️ **Cloud Expertise:** Certified in Azure administration and AWS fundamentals with hands-on experience
 - 💻 **Technical Projects:** Developed enterprise PowerShell solutions that freed **50+ TB** across **1800+ machines**
 
 **What I'm Working On:**
-- 🌱 Pursuing **Azure Solutions Architect** and **AWS Cloud Practitioner** certifications
-- 🔄 Building cloud automation scripts and Infrastructure as Code templates
-- 📦 Contributing to open-source PowerShell and system administration projects
-- 👯 Looking to collaborate on **cloud migration projects** and **automation initiatives**
+- 🌱 Pursuing **AWS Solutions Architect Associate** and **Azure Solutions Architect Expert (AZ-305)** certifications
+- 🔄 Building advanced cloud automation scripts and Infrastructure as Code templates
+- 📦 Contributing to open-source PowerShell and cloud infrastructure projects
+- 👯 Looking to collaborate on **enterprise cloud migrations** and **network automation initiatives**
 
 - 💬 Ask me about **PowerShell**, **Windows Administration**, **Network Troubleshooting**, **Azure**, and **Cloud Infrastructure**
 - ⚡ Fun fact: I believe every manual task is just an automation script waiting to be written!
@@ -29,7 +30,9 @@ I'm a dedicated **IT Professional** currently working in **Desktop Support** wit
 
 ### ☁️ Cloud Platforms & Services
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure AZ-104 Certified](https://img.shields.io/badge/AZ--104%20CERTIFIED-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Certified](https://img.shields.io/badge/AWS%20CERTIFIED-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Azure Functions](https://img.shields.io/badge/Azure%20Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white)
@@ -44,10 +47,11 @@ I'm a dedicated **IT Professional** currently working in **Desktop Support** wit
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### 🏢 System Administration
+### 🏢 System Administration & Networking
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![CCNA Certified](https://img.shields.io/badge/CCNA%20CERTIFIED-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Azure AD](https://img.shields.io/badge/Azure%20AD-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
@@ -117,37 +121,41 @@ A cloud-hosted DNS resolution tool with global CDN deployment.
 
 ## 🎓 Current Learning Journey & Certifications
 
-### 🏆 **Target Certifications 2024-2025:**
-- 🔵 **Microsoft Azure Fundamentals (AZ-900)** - In Progress
-- 🟠 **AWS Certified Cloud Practitioner** - Planned Q4 2024
+### 🏆 **Achieved Certifications:**
+- 🟠 **AWS Certified Cloud Practitioner** ✅ **CERTIFIED**
+- 🔵 **Microsoft Azure Administrator Associate (AZ-104)** ✅ **CERTIFIED**
+- 🔴 **Cisco Certified Network Associate (CCNA)** ✅ **CERTIFIED**
+
+### 🎩 **Next Certification Targets:**
+- 🟢 **AWS Solutions Architect Associate** - In Progress
+- 🔵 **Microsoft Azure Solutions Architect Expert (AZ-305)** - Planned 2025
 - 🔴 **Red Hat Certified System Administrator (RHCSA)** - In Progress
-- 🟢 **CompTIA Network+** or **Security+** - Future Goal
 
 ```powershell
-# My Cloud Skills Progress
-$CloudSkills = @{
-    "Microsoft Azure" = "Advanced - Infrastructure, VMs, Storage, Networking, Security"
-    "Amazon AWS" = "Intermediate - EC2, S3, RDS, Lambda, CloudFormation"
-    "PowerShell Automation" = "Expert - Cloud deployments, Infrastructure as Code"
-    "Terraform" = "Intermediate - Multi-cloud infrastructure provisioning"
-    "Docker & Containers" = "Intermediate - Azure Container Instances, ECS"
-    "DevOps & CI/CD" = "Advanced - Azure DevOps, GitHub Actions, Jenkins"
+# My Cloud & Network Skills Progress
+$CertifiedSkills = @{
+    "Microsoft Azure" = "CERTIFIED AZ-104 - VMs, Storage, Networking, Identity, Governance"
+    "Amazon AWS" = "CERTIFIED Cloud Practitioner - Core services, billing, security"
+    "Cisco Networking" = "CERTIFIED CCNA - Routing, Switching, Network Security, Troubleshooting"
+    "PowerShell Automation" = "Expert - Enterprise automation, cloud deployments"
+    "Network Administration" = "Advanced - Enterprise networking, VLANs, routing protocols"
+    "Cloud Infrastructure" = "Intermediate+ - Multi-cloud deployments and management"
     "Linux Administration" = "Learning - RHEL, Ubuntu, CentOS for cloud workloads"
 }
 
-foreach ($Skill in $CloudSkills.GetEnumerator()) {
-    Write-Host "☁️ $($Skill.Key): $($Skill.Value)" -ForegroundColor Cyan
+foreach ($Skill in $CertifiedSkills.GetEnumerator()) {
+    Write-Host "🏆 $($Skill.Key): $($Skill.Value)" -ForegroundColor Cyan
 }
 
-# Recent Enterprise Achievements
+# Recent Certification & Enterprise Achievements
 Write-Host "🏆 Major Accomplishments:" -ForegroundColor Yellow
+Write-Host "  ✓ Achieved AWS Cloud Practitioner certification" -ForegroundColor Green
+Write-Host "  ✓ Achieved Microsoft Azure Administrator Associate (AZ-104) certification" -ForegroundColor Green
+Write-Host "  ✓ Achieved Cisco CCNA certification" -ForegroundColor Green
 Write-Host "  ✓ Deployed PowerShell automation across 1800+ enterprise machines" -ForegroundColor Green
 Write-Host "  ✓ Freed 50+ TB of disk space through intelligent cleanup automation" -ForegroundColor Green
 Write-Host "  ✓ Achieved 99.8% success rate in enterprise-wide remediation" -ForegroundColor Green
-Write-Host "  ✓ Migrated 50+ VMs from on-premises to Azure" -ForegroundColor Green
-Write-Host "  ✓ Implemented automated backup strategies saving $25K annually" -ForegroundColor Green
-Write-Host "  ✓ Designed multi-region disaster recovery solutions" -ForegroundColor Green
-Write-Host "  ✓ Optimized cloud costs by 40% through resource rightsizing" -ForegroundColor Green
+Write-Host "  ✓ Designed and implemented cloud infrastructure solutions" -ForegroundColor Green
 ```
 
 ## 📈 Activity & Contributions
@@ -161,16 +169,18 @@ Write-Host "  ✓ Optimized cloud costs by 40% through resource rightsizing" -Fo
 - **🚀 Career Transition:** Working toward System/Network Admin and Cloud Infrastructure roles
 
 ### 🎩 2024-2025 Career Goals:
-- [ ] Complete **Azure Fundamentals (AZ-900)** certification
-- [ ] Complete **AWS Cloud Practitioner** certification  
-- [ ] Advance to **System Administrator** or **Network Administrator** role
-- [ ] Build comprehensive PowerShell automation portfolio
-- [ ] Contribute to 5+ open-source infrastructure projects
-- [ ] Transition to **Cloud Infrastructure** or **DevOps** role
+- [ ] Complete **AWS Solutions Architect Associate** certification
+- [ ] Complete **Azure Solutions Architect Expert (AZ-305)** certification
+- [ ] Advance to **Cloud Administrator** or **Infrastructure Engineer** role
+- [ ] Lead cloud migration or infrastructure automation projects
+- [ ] Contribute to 10+ open-source cloud infrastructure projects
+- [ ] Transition to **Senior Cloud Infrastructure** or **DevOps Engineer** role
+- [x] **AWS Cloud Practitioner Certified** ✅
+- [x] **Azure Administrator Associate (AZ-104) Certified** ✅
+- [x] **Cisco CCNA Certified** ✅
 - [x] **Successfully deployed enterprise automation across 1800+ machines** (Previous Role)
 - [x] **Achieved 50+ TB disk space recovery with 99.8% success rate** (Previous Role)
 - [x] Create professional cloud portfolio website
-- [x] Build foundational cloud automation scripts
 
 ## 💻 Cloud Development Environment
 
