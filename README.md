@@ -2,19 +2,28 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Cloud+Infrastructure+Engineer;Azure+%26+AWS+Specialist;PowerShell+Automation+Expert;System+Network+Administrator;DevOps+Enthusiast;Always+Learning+New+Things!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=550&lines=Desktop+Support+Professional;Former+System+%26+Network+Admin;PowerShell+Automation+Enthusiast;Aspiring+Cloud+Infrastructure+Engineer;Azure+%26+AWS+Learner;Always+Growing+%26+Building!)](https://git.io/typing-svg)
 
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate **Cloud Infrastructure Engineer** and **System Network Administrator** specializing in **Azure**, **AWS**, and **Enterprise PowerShell Automation**. With proven experience managing **1800+ enterprise machines** and extensive expertise in automation, scripting, and infrastructure management, I help organizations migrate to the cloud and optimize their operations at scale.
+I'm a dedicated **IT Professional** currently working in **Desktop Support** with a strong background in **System Administration**, **Network Administration**, and **Endpoint Management**. Having managed enterprise environments in the past, I'm now focused on building cloud expertise and automation skills while delivering excellent end-user support.
 
-- ☁️ I'm currently working on **Cloud Infrastructure Automation** and **Multi-Cloud Deployments**
-- 🌱 I'm currently learning **Azure Solutions Architect** and **AWS Cloud Practitioner** certifications
-- 👯 I'm looking to collaborate on **cloud migration projects** and **infrastructure automation**
-- 💬 Ask me about **Azure**, **AWS**, **PowerShell**, **Infrastructure as Code**, and **Cloud Security**
-- ⚡ Fun fact: My PowerShell automation freed **50+ TB** of disk space across **1800+ enterprise machines** with **99.8% success rate**!
+**Background & Expertise:**
+- 🗺️ **Previous Experience:** System Admin, Network Admin, and Endpoint Admin managing enterprise infrastructures
+- 🛫 **Current Role:** Tier 1 Desktop Support - providing technical support and troubleshooting solutions
+- ☁️ **Growing Focus:** Cloud Infrastructure (Azure & AWS) and PowerShell automation
+- 💻 **Technical Projects:** Developed enterprise PowerShell solutions that freed **50+ TB** across **1800+ machines**
+
+**What I'm Working On:**
+- 🌱 Pursuing **Azure Solutions Architect** and **AWS Cloud Practitioner** certifications
+- 🔄 Building cloud automation scripts and Infrastructure as Code templates
+- 📦 Contributing to open-source PowerShell and system administration projects
+- 👯 Looking to collaborate on **cloud migration projects** and **automation initiatives**
+
+- 💬 Ask me about **PowerShell**, **Windows Administration**, **Network Troubleshooting**, **Azure**, and **Cloud Infrastructure**
+- ⚡ Fun fact: I believe every manual task is just an automation script waiting to be written!
 
 ## 🛫 Tech Stack
 
@@ -109,10 +118,10 @@ A cloud-hosted DNS resolution tool with global CDN deployment.
 ## 🎓 Current Learning Journey & Certifications
 
 ### 🏆 **Target Certifications 2024-2025:**
-- 🔵 **Microsoft Azure Solutions Architect Expert (AZ-305)** - In Progress
-- 🟠 **AWS Certified Solutions Architect** - Planned Q4 2024
+- 🔵 **Microsoft Azure Fundamentals (AZ-900)** - In Progress
+- 🟠 **AWS Certified Cloud Practitioner** - Planned Q4 2024
 - 🔴 **Red Hat Certified System Administrator (RHCSA)** - In Progress
-- 🟢 **Terraform Associate Certification** - Planned 2025
+- 🟢 **CompTIA Network+** or **Security+** - Future Goal
 
 ```powershell
 # My Cloud Skills Progress
@@ -144,23 +153,24 @@ Write-Host "  ✓ Optimized cloud costs by 40% through resource rightsizing" -Fo
 ## 📈 Activity & Contributions
 
 ### 🔥 Current Focus Areas:
-- **🏢 Enterprise Automation:** Large-scale PowerShell solutions for 1000+ machine environments
-- **☁️ Cloud Architecture:** Designing scalable Azure and AWS solutions
-- **🔄 Infrastructure as Code:** Terraform and ARM template development
-- **🚀 DevOps Automation:** CI/CD pipelines and deployment automation
-- **📊 Cost Optimization:** Cloud resource monitoring and rightsizing strategies
-- **🔒 Cloud Security:** Implementing zero-trust architecture and compliance
+- **💻 Desktop Support Excellence:** Providing top-tier technical support and user experience
+- **☁️ Cloud Learning Journey:** Studying Azure and AWS fundamentals for future growth
+- **🔄 PowerShell Development:** Building automation scripts for personal and community projects
+- **🎩 Skill Development:** Preparing for cloud certifications and infrastructure roles
+- **📚 Knowledge Sharing:** Contributing to open-source projects and learning communities
+- **🚀 Career Transition:** Working toward System/Network Admin and Cloud Infrastructure roles
 
-### 🎩 2024-2025 Professional Goals:
-- [ ] Complete **Azure Solutions Architect Expert (AZ-305)** certification
-- [ ] Complete **AWS Certified Solutions Architect** certification
-- [ ] Lead 3+ enterprise cloud migration projects
-- [ ] Develop open-source cloud automation tools
-- [ ] Speak at cloud computing conferences/meetups
-- [x] **Successfully deployed enterprise automation across 1800+ machines**
-- [x] **Achieved 50+ TB disk space recovery with 99.8% success rate**
+### 🎩 2024-2025 Career Goals:
+- [ ] Complete **Azure Fundamentals (AZ-900)** certification
+- [ ] Complete **AWS Cloud Practitioner** certification  
+- [ ] Advance to **System Administrator** or **Network Administrator** role
+- [ ] Build comprehensive PowerShell automation portfolio
+- [ ] Contribute to 5+ open-source infrastructure projects
+- [ ] Transition to **Cloud Infrastructure** or **DevOps** role
+- [x] **Successfully deployed enterprise automation across 1800+ machines** (Previous Role)
+- [x] **Achieved 50+ TB disk space recovery with 99.8% success rate** (Previous Role)
 - [x] Create professional cloud portfolio website
-- [x] Build multi-cloud infrastructure templates
+- [x] Build foundational cloud automation scripts
 
 ## 💻 Cloud Development Environment
 
