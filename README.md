@@ -2,19 +2,20 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Certified+Cloud+%26+Network+Professional;AWS+Certified+%7C+Azure+AZ-104+%7C+Cisco+CCNA;Desktop+Support+%26+System+Administrator;PowerShell+Automation+Expert;Aspiring+Cloud+Infrastructure+Engineer;Always+Growing+%26+Building!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=650&lines=Highly+Certified+IT+Professional;6+Major+Certifications%3A+AWS+%7C+Azure+%7C+CCNA+%7C+Security%2B;CompTIA+Trifecta%3A+A%2B+%7C+Network%2B+%7C+Security%2B;Desktop+Support+%26+System+Administrator;Cloud+%26+Security+Specialist;Always+Growing+%26+Building!)](https://git.io/typing-svg)
 
 </div>
 
 ## 🚀 About Me
 
-I'm a **Certified Cloud and Network Professional** currently working in **Desktop Support** with extensive experience in **System Administration**, **Network Administration**, and **Endpoint Management**. With **AWS Cloud Practitioner**, **Azure Administrator Associate (AZ-104)**, and **CCNA** certifications, I bring proven cloud and networking expertise while delivering excellent end-user support and pursuing advanced infrastructure roles.
+I'm a **Highly Certified IT Professional** currently working in **Desktop Support** with extensive experience in **System Administration**, **Network Administration**, and **Endpoint Management**. With **6 major industry certifications** including **AWS**, **Azure AZ-104**, **CCNA**, **CompTIA Security+**, **Network+**, and **A+**, I bring comprehensive IT expertise across cloud, security, networking, and systems while pursuing advanced infrastructure roles.
 
 **Background & Expertise:**
-- 🏆 **Certifications:** AWS Cloud Practitioner | Azure Administrator Associate (AZ-104) | Cisco CCNA
+- 🏆 **Certifications:** AWS | Azure AZ-104 | CCNA | CompTIA Security+ | Network+ | A+ **(6 MAJOR CERTS)**
 - 🗺️ **Previous Experience:** System Admin, Network Admin, and Endpoint Admin managing enterprise infrastructures
 - 🛫 **Current Role:** Tier 1 Desktop Support - providing technical support and troubleshooting solutions
-- ☁️ **Cloud Expertise:** Certified in Azure administration and AWS fundamentals with hands-on experience
+- ☁️ **Cloud Expertise:** Certified Azure Administrator with AWS cloud practitioner knowledge
+- 🔒 **Security Focus:** CompTIA Security+ certified with advanced security knowledge and best practices
 - 💻 **Technical Projects:** Developed enterprise PowerShell solutions that freed **50+ TB** across **1800+ machines**
 
 **What I'm Working On:**
@@ -49,11 +50,18 @@ I'm a **Certified Cloud and Network Professional** currently working in **Deskto
 
 ### 🏢 System Administration & Networking
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![CompTIA A+](https://img.shields.io/badge/CompTIA%20A%2B%20CERTIFIED-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![CCNA Certified](https://img.shields.io/badge/CCNA%20CERTIFIED-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![CompTIA Network+](https://img.shields.io/badge/CompTIA%20Network%2B%20CERTIFIED-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Azure AD](https://img.shields.io/badge/Azure%20AD-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### 🔒 Security & Compliance
+![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B%20CERTIFIED-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
+![Azure Security](https://img.shields.io/badge/Azure%20Security-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network%20Security-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 ### 🔧 DevOps & Infrastructure Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -122,9 +130,18 @@ A cloud-hosted DNS resolution tool with global CDN deployment.
 ## 🎓 Current Learning Journey & Certifications
 
 ### 🏆 **Achieved Certifications:**
+
+**☁️ Cloud Certifications:**
 - 🟠 **AWS Certified Cloud Practitioner** ✅ **CERTIFIED**
 - 🔵 **Microsoft Azure Administrator Associate (AZ-104)** ✅ **CERTIFIED**
+
+**🔒 Security & Networking:**
 - 🔴 **Cisco Certified Network Associate (CCNA)** ✅ **CERTIFIED**
+- 🟢 **CompTIA Security+** ✅ **CERTIFIED**
+- 🟡 **CompTIA Network+** ✅ **CERTIFIED**
+
+**💻 Foundational:**
+- ⚪ **CompTIA A+** ✅ **CERTIFIED**
 
 ### 🎩 **Next Certification Targets:**
 - 🟢 **AWS Solutions Architect Associate** - In Progress
@@ -132,15 +149,18 @@ A cloud-hosted DNS resolution tool with global CDN deployment.
 - 🔴 **Red Hat Certified System Administrator (RHCSA)** - In Progress
 
 ```powershell
-# My Cloud & Network Skills Progress
+# My Comprehensive Certified Skills Portfolio
 $CertifiedSkills = @{
     "Microsoft Azure" = "CERTIFIED AZ-104 - VMs, Storage, Networking, Identity, Governance"
     "Amazon AWS" = "CERTIFIED Cloud Practitioner - Core services, billing, security"
     "Cisco Networking" = "CERTIFIED CCNA - Routing, Switching, Network Security, Troubleshooting"
+    "CompTIA Security+" = "CERTIFIED - Risk management, cryptography, network security"
+    "CompTIA Network+" = "CERTIFIED - Network concepts, infrastructure, operations"
+    "CompTIA A+" = "CERTIFIED - Hardware, software, troubleshooting, security"
     "PowerShell Automation" = "Expert - Enterprise automation, cloud deployments"
     "Network Administration" = "Advanced - Enterprise networking, VLANs, routing protocols"
+    "Security Administration" = "Intermediate+ - Compliance, risk assessment, security policies"
     "Cloud Infrastructure" = "Intermediate+ - Multi-cloud deployments and management"
-    "Linux Administration" = "Learning - RHEL, Ubuntu, CentOS for cloud workloads"
 }
 
 foreach ($Skill in $CertifiedSkills.GetEnumerator()) {
@@ -149,13 +169,16 @@ foreach ($Skill in $CertifiedSkills.GetEnumerator()) {
 
 # Recent Certification & Enterprise Achievements
 Write-Host "🏆 Major Accomplishments:" -ForegroundColor Yellow
-Write-Host "  ✓ Achieved AWS Cloud Practitioner certification" -ForegroundColor Green
-Write-Host "  ✓ Achieved Microsoft Azure Administrator Associate (AZ-104) certification" -ForegroundColor Green
-Write-Host "  ✓ Achieved Cisco CCNA certification" -ForegroundColor Green
+Write-Host "  ✓ ACHIEVED 6 MAJOR IT CERTIFICATIONS" -ForegroundColor Magenta
+Write-Host "  ✓ AWS Cloud Practitioner certified" -ForegroundColor Green
+Write-Host "  ✓ Microsoft Azure Administrator Associate (AZ-104) certified" -ForegroundColor Green
+Write-Host "  ✓ Cisco CCNA certified" -ForegroundColor Green
+Write-Host "  ✓ CompTIA Security+ certified" -ForegroundColor Green
+Write-Host "  ✓ CompTIA Network+ certified" -ForegroundColor Green
+Write-Host "  ✓ CompTIA A+ certified" -ForegroundColor Green
 Write-Host "  ✓ Deployed PowerShell automation across 1800+ enterprise machines" -ForegroundColor Green
 Write-Host "  ✓ Freed 50+ TB of disk space through intelligent cleanup automation" -ForegroundColor Green
 Write-Host "  ✓ Achieved 99.8% success rate in enterprise-wide remediation" -ForegroundColor Green
-Write-Host "  ✓ Designed and implemented cloud infrastructure solutions" -ForegroundColor Green
 ```
 
 ## 📈 Activity & Contributions
@@ -171,13 +194,18 @@ Write-Host "  ✓ Designed and implemented cloud infrastructure solutions" -Fore
 ### 🎩 2024-2025 Career Goals:
 - [ ] Complete **AWS Solutions Architect Associate** certification
 - [ ] Complete **Azure Solutions Architect Expert (AZ-305)** certification
-- [ ] Advance to **Cloud Administrator** or **Infrastructure Engineer** role
-- [ ] Lead cloud migration or infrastructure automation projects
+- [ ] Advance to **Cloud Security Engineer** or **Infrastructure Engineer** role
+- [ ] Lead cloud migration or security implementation projects
 - [ ] Contribute to 10+ open-source cloud infrastructure projects
-- [ ] Transition to **Senior Cloud Infrastructure** or **DevOps Engineer** role
+- [ ] Transition to **Senior Cloud Infrastructure** or **Cybersecurity Engineer** role
+
+**🏆 CERTIFICATION ACHIEVEMENTS COMPLETED:**
 - [x] **AWS Cloud Practitioner Certified** ✅
 - [x] **Azure Administrator Associate (AZ-104) Certified** ✅
 - [x] **Cisco CCNA Certified** ✅
+- [x] **CompTIA Security+ Certified** ✅
+- [x] **CompTIA Network+ Certified** ✅
+- [x] **CompTIA A+ Certified** ✅
 - [x] **Successfully deployed enterprise automation across 1800+ machines** (Previous Role)
 - [x] **Achieved 50+ TB disk space recovery with 99.8% success rate** (Previous Role)
 - [x] Create professional cloud portfolio website
