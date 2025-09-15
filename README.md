@@ -85,11 +85,26 @@ I'm a **Highly Certified IT Professional** currently working in **Desktop Suppor
 
 <div align="center">
   
-![Thinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mamamia0729&show_icons=true&theme=radical)
+![Thinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mamamia0729&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mamamia0729&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mamamia0729&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=github-readme-stats)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mamamia0729&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mamamia0729&theme=radical&hide_border=true)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mamamia0729&theme=radical&hide_border=true&custom_title=Contribution%20Activity)
+
+### 📈 Additional Metrics
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mamamia0729&theme=radical)
+
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mamamia0729&theme=radical" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mamamia0729&theme=radical" />
+</div>
+
+### 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mamamia0729&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
 
 </div>
 
