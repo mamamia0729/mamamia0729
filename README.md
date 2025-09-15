@@ -95,9 +95,7 @@ I'm a **Highly Certified IT Professional** currently working in **Desktop Suppor
 
 ## 🎩 Featured Projects
 
-### 🔥 **RECENT ACHIEVEMENTS (Past 5 Days)**
-
-### 🐳 [Enterprise Linux Docker Environment](https://github.com/mamamia0729/enterprise-linux-docker) ⭐ **LATEST - 2 HOURS AGO**
+### 🐳 [Enterprise Linux Docker Environment](https://github.com/mamamia0729/enterprise-linux-docker)
 **🚀 Production-Ready Multi-Distribution Linux Environment:** Complete containerized infrastructure with RHEL UBI 9, Ubuntu 22.04 LTS, and CentOS 7.
 - **Tech Stack:** Docker, Docker Compose, Multi-Linux Distributions, Enterprise Security, Infrastructure as Code
 - **Key Features:** Network isolation (172.20.0.0/16), Portainer management, health monitoring, security hardening
@@ -105,14 +103,14 @@ I'm a **Highly Certified IT Professional** currently working in **Desktop Suppor
 - **Enterprise Value:** Demonstrates advanced containerization skills suitable for DevOps and Cloud Infrastructure roles
 - **Security:** Non-root users, minimal attack surface, secure networking, comprehensive logging
 
-### 🔐 [M365 Authentication Fix](https://github.com/mamamia0729/M365-Authentication-Fix) ⭐ **LATEST - 1 DAY AGO**
+### 🔐 [M365 Authentication Fix](https://github.com/mamamia0729/M365-Authentication-Fix)
 **🚀 Enterprise M365 Integration Solution:** Eliminates dual login requirements with PowerShell automation and comprehensive diagnostics.
 - **Real-World Impact:** Successfully deployed for **500+ users** across **700+ devices**
 - **Tech Stack:** PowerShell, Active Directory, Microsoft 365, SSO Integration, Registry Automation
 - **Key Features:** Automated diagnostics, step-by-step implementation guides, rollback procedures
 - **Enterprise Value:** Reduced IT support overhead, improved user experience, enhanced security compliance
 
-### 🧰 [Interactive IT-ToolBox](https://github.com/mamamia0729/IT-ToolBox) ⭐ **LATEST - 3 DAYS AGO**
+### 🧰 [Interactive IT-ToolBox](https://github.com/mamamia0729/IT-ToolBox)
 **🚀 Complete Remote Management Utility:** Professional PowerShell toolkit with interactive menu system and comprehensive safety features.
 - **Tech Stack:** Advanced PowerShell, Remote Management, WMI/RPC, Registry Operations, Service Management
 - **Key Features:** Interactive menu system, remote connectivity testing, real-time feedback, multiple safety confirmations
@@ -210,9 +208,9 @@ Write-Host "  ✓ Cisco CCNA certified" -ForegroundColor Green
 Write-Host "  ✓ CompTIA Security+ certified" -ForegroundColor Green
 Write-Host "  ✓ CompTIA Network+ certified" -ForegroundColor Green
 Write-Host "  ✓ CompTIA A+ certified" -ForegroundColor Green
-Write-Host "  ✓ LATEST: Built production-ready multi-distribution Docker environment" -ForegroundColor Cyan
-Write-Host "  ✓ LATEST: Deployed M365 authentication solution for 500+ users across 700+ devices" -ForegroundColor Cyan
-Write-Host "  ✓ LATEST: Created professional IT support toolkit with interactive automation" -ForegroundColor Cyan
+Write-Host "  ✓ Built production-ready multi-distribution Docker environment" -ForegroundColor Cyan
+Write-Host "  ✓ Deployed M365 authentication solution for 500+ users across 700+ devices" -ForegroundColor Cyan
+Write-Host "  ✓ Created professional IT support toolkit with interactive automation" -ForegroundColor Cyan
 Write-Host "  ✓ Deployed PowerShell automation across 1800+ enterprise machines" -ForegroundColor Green
 Write-Host "  ✓ Freed 50+ TB of disk space through intelligent cleanup automation" -ForegroundColor Green
 Write-Host "  ✓ Achieved 99.8% success rate in enterprise-wide remediation" -ForegroundColor Green
