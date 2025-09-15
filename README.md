@@ -95,6 +95,30 @@ I'm a **Highly Certified IT Professional** currently working in **Desktop Suppor
 
 ## 🎩 Featured Projects
 
+### 🔥 **RECENT ACHIEVEMENTS (Past 5 Days)**
+
+### 🐳 [Enterprise Linux Docker Environment](https://github.com/mamamia0729/enterprise-linux-docker) ⭐ **LATEST - 2 HOURS AGO**
+**🚀 Production-Ready Multi-Distribution Linux Environment:** Complete containerized infrastructure with RHEL UBI 9, Ubuntu 22.04 LTS, and CentOS 7.
+- **Tech Stack:** Docker, Docker Compose, Multi-Linux Distributions, Enterprise Security, Infrastructure as Code
+- **Key Features:** Network isolation (172.20.0.0/16), Portainer management, health monitoring, security hardening
+- **Architecture:** 4-container ecosystem with centralized management and persistent storage
+- **Enterprise Value:** Demonstrates advanced containerization skills suitable for DevOps and Cloud Infrastructure roles
+- **Security:** Non-root users, minimal attack surface, secure networking, comprehensive logging
+
+### 🔐 [M365 Authentication Fix](https://github.com/mamamia0729/M365-Authentication-Fix) ⭐ **LATEST - 1 DAY AGO**
+**🚀 Enterprise M365 Integration Solution:** Eliminates dual login requirements with PowerShell automation and comprehensive diagnostics.
+- **Real-World Impact:** Successfully deployed for **500+ users** across **700+ devices**
+- **Tech Stack:** PowerShell, Active Directory, Microsoft 365, SSO Integration, Registry Automation
+- **Key Features:** Automated diagnostics, step-by-step implementation guides, rollback procedures
+- **Enterprise Value:** Reduced IT support overhead, improved user experience, enhanced security compliance
+
+### 🧰 [Interactive IT-ToolBox](https://github.com/mamamia0729/IT-ToolBox) ⭐ **LATEST - 3 DAYS AGO**
+**🚀 Complete Remote Management Utility:** Professional PowerShell toolkit with interactive menu system and comprehensive safety features.
+- **Tech Stack:** Advanced PowerShell, Remote Management, WMI/RPC, Registry Operations, Service Management
+- **Key Features:** Interactive menu system, remote connectivity testing, real-time feedback, multiple safety confirmations
+- **Current Operations:** Print Spooler management, Remote Desktop Services, Adobe Acrobat DC sign-in fixes
+- **Enterprise Value:** Standardized procedures, consistent approach across systems, built-in documentation
+
 ### 🛠️ [Windows Installer Cleanup Suite](https://github.com/mamamia0729/windows-installer-cleanup-suite) ⭐ **ENTERPRISE SHOWCASE**
 **🚀 Real-World Impact:** Successfully resolved critical disk space issues across **1800+ enterprise machines** where Windows Installer cache consumed entire C: drives.
 - **Tech Stack:** Advanced PowerShell, WMI, Remote Administration, Enterprise Automation
@@ -177,8 +201,7 @@ $CertifiedSkills = @{
 foreach ($Skill in $CertifiedSkills.GetEnumerator()) {
     Write-Host "🏆 $($Skill.Key): $($Skill.Value)" -ForegroundColor Cyan
 }
-
-# Recent Certification & Enterprise Achievements
+### 📚 Recent Certification & Enterprise Achievements
 Write-Host "🏆 Major Accomplishments:" -ForegroundColor Yellow
 Write-Host "  ✓ ACHIEVED 6 MAJOR IT CERTIFICATIONS" -ForegroundColor Magenta
 Write-Host "  ✓ AWS Cloud Practitioner certified" -ForegroundColor Green
@@ -187,6 +210,9 @@ Write-Host "  ✓ Cisco CCNA certified" -ForegroundColor Green
 Write-Host "  ✓ CompTIA Security+ certified" -ForegroundColor Green
 Write-Host "  ✓ CompTIA Network+ certified" -ForegroundColor Green
 Write-Host "  ✓ CompTIA A+ certified" -ForegroundColor Green
+Write-Host "  ✓ LATEST: Built production-ready multi-distribution Docker environment" -ForegroundColor Cyan
+Write-Host "  ✓ LATEST: Deployed M365 authentication solution for 500+ users across 700+ devices" -ForegroundColor Cyan
+Write-Host "  ✓ LATEST: Created professional IT support toolkit with interactive automation" -ForegroundColor Cyan
 Write-Host "  ✓ Deployed PowerShell automation across 1800+ enterprise machines" -ForegroundColor Green
 Write-Host "  ✓ Freed 50+ TB of disk space through intelligent cleanup automation" -ForegroundColor Green
 Write-Host "  ✓ Achieved 99.8% success rate in enterprise-wide remediation" -ForegroundColor Green
@@ -196,9 +222,11 @@ Write-Host "  ✓ Achieved 99.8% success rate in enterprise-wide remediation" -F
 
 ### 🔥 Current Focus Areas:
 - **💻 Desktop Support Excellence:** Providing top-tier technical support and user experience
+- **🐳 Docker & Containerization:** Building production-ready multi-distribution Linux environments
 - **🐧 Linux System Administration:** Mastering Linux troubleshooting, package management, and system monitoring
 - **☁️ Cloud Learning Journey:** Studying Azure and AWS fundamentals for future growth
 - **🔄 Cross-Platform Automation:** Building PowerShell and Bash automation scripts for multi-OS environments
+- **🛠️ Enterprise Tool Development:** Creating professional IT support utilities and automation solutions
 - **🎩 Skill Development:** Preparing for cloud certifications and infrastructure roles
 - **📚 Knowledge Sharing:** Contributing to open-source projects and learning communities
 - **🚀 Career Transition:** Working toward System/Network Admin and Cloud Infrastructure roles
