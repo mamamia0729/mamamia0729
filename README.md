@@ -24,7 +24,7 @@ I'm a **Highly Certified IT Professional** currently working in **Desktop Suppor
 - 📦 Contributing to open-source PowerShell and cloud infrastructure projects
 - 👯 Looking to collaborate on **enterprise cloud migrations** and **network automation initiatives**
 
-- 💬 Ask me about **PowerShell**, **Windows Administration**, **Network Troubleshooting**, **Azure**, and **Cloud Infrastructure**
+- 💬 Ask me about **PowerShell**, **Windows Administration**, **Linux System Troubleshooting**, **Network Troubleshooting**, **Azure**, **Cloud Infrastructure**, and **Cross-Platform Package Management**
 - ⚡ Fun fact: I believe every manual task is just an automation script waiting to be written!
 
 ## 🛫 Tech Stack
@@ -52,6 +52,7 @@ I'm a **Highly Certified IT Professional** currently working in **Desktop Suppor
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![CompTIA A+](https://img.shields.io/badge/CompTIA%20A%2B%20CERTIFIED-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux Troubleshooting](https://img.shields.io/badge/Linux%20Troubleshooting-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![CCNA Certified](https://img.shields.io/badge/CCNA%20CERTIFIED-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![CompTIA Network+](https://img.shields.io/badge/CompTIA%20Network%2B%20CERTIFIED-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
@@ -65,6 +66,8 @@ I'm a **Highly Certified IT Professional** currently working in **Desktop Suppor
 
 ### 🔧 DevOps & Infrastructure Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=white)
+![APT](https://img.shields.io/badge/APT%20Package%20Manager-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Azure Container Instances](https://img.shields.io/badge/Azure%20Container%20Instances-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -127,6 +130,12 @@ A cloud-hosted DNS resolution tool with global CDN deployment.
 - **[PowerShell Practice Plan](https://github.com/mamamia0729/PowerShell-Learning)** - Structured learning path for PowerShell mastery
 - **[RHCSA Study Guide](https://github.com/mamamia0729/RHCSA-prep)** - Comprehensive Red Hat certification preparation
 
+### 🐧 Linux System Administration & Troubleshooting
+- **[Linux Troubleshooting Command Reference](https://github.com/mamamia0729/linux-troubleshooting-commands)** - Comprehensive flashcard collection for Linux system troubleshooting
+- **[Cross-Platform Package Management Guide](https://github.com/mamamia0729/cross-platform-package-management)** - Complete reference for apt-get, yum, brew, and other package managers
+- **Linux Skills Development:** Currently building expertise in system monitoring, log analysis, network troubleshooting, and service management
+- **Multi-OS Environment Management:** Developing skills to support Windows, macOS, and Linux environments
+
 ## 🎓 Current Learning Journey & Certifications
 
 ### 🏆 **Achieved Certifications:**
@@ -146,7 +155,7 @@ A cloud-hosted DNS resolution tool with global CDN deployment.
 ### 🎩 **Next Certification Targets:**
 - 🟢 **AWS Solutions Architect Associate** - In Progress
 - 🔵 **Microsoft Azure Solutions Architect Expert (AZ-305)** - Planned 2025
-- 🔴 **Red Hat Certified System Administrator (RHCSA)** - In Progress
+- 🔴 **Red Hat Certified System Administrator (RHCSA)** - In Progress *(Currently building Linux troubleshooting skills)*
 
 ```powershell
 # My Comprehensive Certified Skills Portfolio
@@ -158,6 +167,8 @@ $CertifiedSkills = @{
     "CompTIA Network+" = "CERTIFIED - Network concepts, infrastructure, operations"
     "CompTIA A+" = "CERTIFIED - Hardware, software, troubleshooting, security"
     "PowerShell Automation" = "Expert - Enterprise automation, cloud deployments"
+    "Linux System Administration" = "Developing - System monitoring, troubleshooting, package management"
+    "Cross-Platform Package Management" = "Developing - apt-get, yum, brew, chocolatey expertise"
     "Network Administration" = "Advanced - Enterprise networking, VLANs, routing protocols"
     "Security Administration" = "Intermediate+ - Compliance, risk assessment, security policies"
     "Cloud Infrastructure" = "Intermediate+ - Multi-cloud deployments and management"
@@ -185,8 +196,9 @@ Write-Host "  ✓ Achieved 99.8% success rate in enterprise-wide remediation" -F
 
 ### 🔥 Current Focus Areas:
 - **💻 Desktop Support Excellence:** Providing top-tier technical support and user experience
+- **🐧 Linux System Administration:** Mastering Linux troubleshooting, package management, and system monitoring
 - **☁️ Cloud Learning Journey:** Studying Azure and AWS fundamentals for future growth
-- **🔄 PowerShell Development:** Building automation scripts for personal and community projects
+- **🔄 Cross-Platform Automation:** Building PowerShell and Bash automation scripts for multi-OS environments
 - **🎩 Skill Development:** Preparing for cloud certifications and infrastructure roles
 - **📚 Knowledge Sharing:** Contributing to open-source projects and learning communities
 - **🚀 Career Transition:** Working toward System/Network Admin and Cloud Infrastructure roles
