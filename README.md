@@ -81,26 +81,37 @@ I'm a **Highly Certified IT Professional** currently working in **Desktop Suppor
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
 
-## 📊 GitHub Stats
+## 🏆 Enterprise Impact & Achievements
 
 <div align="center">
-  
-![Thinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mamamia0729&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mamamia0729&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=github-readme-stats)
+### 💼 **Production-Scale Implementations**
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mamamia0729&theme=radical&hide_border=true)
+| Achievement | Scope | Impact | Technology |
+|-------------|--------|--------|-----------|
+| **🚀 Enterprise Automation** | **1,800+ Machines** | **50+ TB Recovered** | PowerShell, WMI, Remote Administration |
+| **🔐 M365 SSO Integration** | **500+ Users, 700+ Devices** | **Eliminated Dual Authentication** | PowerShell, Active Directory, M365 |
+| **☁️ Cloud Infrastructure** | **Multi-Environment** | **80% Deployment Time Reduction** | Azure, AWS, Terraform, IaC |
+| **🛡️ Security Implementation** | **Enterprise-Wide** | **SAML 2.0 SSO Standardization** | Azure AD, Identity Management |
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mamamia0729&theme=radical&hide_border=true&custom_title=Contribution%20Activity)
+### 📈 **Professional Development Trajectory**
 
-### 📈 Additional Metrics
+```mermaid
+graph TD
+    A[6 Major Certifications] --> B[Enterprise PowerShell Automation]
+    B --> C[Cloud Infrastructure Expertise]
+    C --> D[Identity Management & SSO]
+    D --> E[Senior Infrastructure Engineering]
+    
+    style A fill:#0078D4
+    style B fill:#2196F3
+    style C fill:#00BCD4
+    style D fill:#4CAF50
+    style E fill:#FF9800
+```
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mamamia0729&theme=radical)
-
-<div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mamamia0729&theme=radical" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mamamia0729&theme=radical" />
-</div>
+### 🎯 **Core Competencies**
+**Enterprise Automation** • **Cloud Infrastructure** • **Identity Management** • **Security Implementation** • **System Administration**
 
 </div>
 
