@@ -132,6 +132,13 @@ I'm a **Highly Certified IT Professional** currently working in **Desktop Suppor
 - **Current Operations:** Print Spooler management, Remote Desktop Services, Adobe Acrobat DC sign-in fixes
 - **Enterprise Value:** Standardized procedures, consistent approach across systems, built-in documentation
 
+### 🔐 [Azure AD + Datto SSO Implementation Mastery](https://github.com/mamamia0729/azure-ad-datto-sso-implementation-mastery)
+**🚀 Enterprise-Grade SSO Implementation:** Complete Azure AD + Datto Cloud Storage SAML 2.0 integration with production-ready automation and comprehensive documentation.
+- **Tech Stack:** Azure Active Directory, SAML 2.0, PowerShell 5.1+/Core, Datto Cloud Storage, Alternative IdPs (ADFS, Okta, PingFederate)
+- **Key Features:** Step-by-step implementation guides, automated validation scripts, cross-version PowerShell compatibility, multi-provider support
+- **Enterprise Value:** Reduces implementation time by 70%, eliminates security misconfigurations, standardizes deployment procedures
+- **Production Impact:** Comprehensive troubleshooting guides, security best practices, enterprise-scale documentation for IT professionals
+
 ### 🛠️ [Windows Installer Cleanup Suite](https://github.com/mamamia0729/windows-installer-cleanup-suite) ⭐ **ENTERPRISE SHOWCASE**
 **🚀 Real-World Impact:** Successfully resolved critical disk space issues across **1800+ enterprise machines** where Windows Installer cache consumed entire C: drives.
 - **Tech Stack:** Advanced PowerShell, WMI, Remote Administration, Enterprise Automation
