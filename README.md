@@ -102,10 +102,6 @@ I'm a **Highly Certified IT Professional** currently working in **Desktop Suppor
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mamamia0729&theme=radical" />
 </div>
 
-### 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mamamia0729&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
-
 </div>
 
 ## 🎩 Featured Projects
