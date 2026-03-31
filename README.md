@@ -1,11 +1,13 @@
 # Thinh Le
 
-Infrastructure engineer focused on Windows Server, Azure, and automation. Most of my work involves PowerShell, hybrid identity, and keeping production systems healthy.
+Infrastructure engineer focused on Windows Server, Azure, Linux, and automation. Most of my work involves PowerShell, hybrid identity, Terraform, and keeping production systems healthy.
 
 ## What I Work On
 
 - Enterprise automation with PowerShell, remote management, endpoint maintenance, system administration
 - Azure infrastructure, AD Connect, Site Recovery, VM cost optimization, Conditional Access
+- Linux administration, RHEL, Ubuntu, CentOS, shell scripting, security hardening
+- Infrastructure as Code with Terraform, Ansible, and configuration management
 - Monitoring with Zabbix and Azure Monitor
 - Virtualization and networking, VMware ESXi, Fortinet, Meraki, SAN storage
 
@@ -24,4 +26,5 @@ Infrastructure engineer focused on Windows Server, Azure, and automation. Most o
 
 - RHCSA
 - AZ-305
+- Terraform and Infrastructure as Code
 - Linux administration and open-source contributions
