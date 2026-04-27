@@ -1,17 +1,21 @@
 # Thinh Le
 
-Infrastructure engineer focused on Windows Server, Azure, Linux, and automation. Most of my work involves PowerShell, hybrid identity, Terraform, and keeping production systems healthy.
+**Cloud and Systems Administrator** focused on Microsoft Azure, Microsoft 365, Active Directory, and hybrid Windows/Linux infrastructure. 8+ years operating multi-site enterprise environments. Most of my work involves PowerShell automation, hybrid identity, Infrastructure as Code, and keeping production systems boring in the best possible way.
 
 ## What I Work On
 
-- Enterprise automation with PowerShell, remote management, endpoint maintenance, system administration
-- Azure infrastructure, AD Connect, Site Recovery, VM cost optimization, Conditional Access
-- Linux administration, RHEL, Ubuntu, CentOS, shell scripting, security hardening
-- Infrastructure as Code with Terraform, Ansible, and configuration management
-- Monitoring with Zabbix and Azure Monitor
-- Virtualization and networking, VMware ESXi, Fortinet, Meraki, SAN storage
+- **Azure operations:** RBAC, PIM, Defender for Cloud, Key Vault, tagging, cost management, Site Recovery, Azure Monitor
+- **Hybrid identity:** Azure AD Connect, Conditional Access, MFA, SSO with Entra, on-prem AD to Entra integration
+- **System automation:** PowerShell (parallel processing, Graph API), Python, Azure CLI, runbook design
+- **Infrastructure as Code:** Terraform for Azure hub-and-spoke, Ansible for configuration management
+- **On-prem infrastructure:** Windows Server, VMware vSphere (ESXi 6.7-8), Linux (RHEL, Ubuntu, CentOS)
+- **Monitoring:** Zabbix, Azure Monitor, custom Python/Flask dashboards
 
-## Projects
+## Featured Project
+
+**[computer-monitor](https://github.com/mamamia0729/computer-monitor)** — Real-time monitoring dashboard for domain-joined Windows environments, engineered to operate without WinRM. PowerShell 7 (parallel ICMP probing), Python Flask, JSON storage, MIT licensed. Built for IT teams managing enterprise Windows fleets in environments where remote management protocols are restricted.
+
+## Other Projects
 
 | Project | Description |
 |---------|-------------|
@@ -22,9 +26,23 @@ Infrastructure engineer focused on Windows Server, Azure, Linux, and automation.
 | [azure-ad-datto-sso-implementation-mastery](https://github.com/mamamia0729/azure-ad-datto-sso-implementation-mastery) | Azure AD + Datto SSO implementation with SAML |
 | [M365-Authentication-Fix](https://github.com/mamamia0729/M365-Authentication-Fix) | PowerShell fix for M365 dual login issues |
 
+## Certifications
+
+- Microsoft Azure Administrator (AZ-104)
+- Microsoft Azure Fundamentals (AZ-900)
+- AWS Solutions Architect Professional
+- Microsoft 365 Administrator Expert (MS-102)
+- Microsoft 365 Endpoint Administrator (MD-102)
+- Cisco Certified Network Associate (CCNA)
+- CompTIA Security+
+
 ## Currently Learning
 
-- RHCSA
-- AZ-305
-- Terraform and Infrastructure as Code
-- Linux administration and open-source contributions
+- HashiCorp Terraform Associate (target: May 2026)
+- Red Hat Certified System Administrator (RHCSA)
+- Azure Solutions Architect Expert (AZ-305)
+
+## Connect
+
+- LinkedIn: [linkedin.com/in/thinh-le-608222185](https://www.linkedin.com/in/thinh-le-608222185/)
+- Location: Houston, TX
